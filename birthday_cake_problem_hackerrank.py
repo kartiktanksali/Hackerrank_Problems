@@ -1,14 +1,3 @@
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the birthdayCakeCandles function below.
-#def birthdayCakeCandles(ar):
-    
-
-
 
 ar_count = int(input())
 

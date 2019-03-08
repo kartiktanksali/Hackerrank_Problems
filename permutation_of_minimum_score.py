@@ -1,18 +1,3 @@
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the anotherMinimaxProblem function below.
-#def anotherMinimaxProblem(a):
-
-    
-    
-    
-    
-    
-
 
 
 n = int(input())
