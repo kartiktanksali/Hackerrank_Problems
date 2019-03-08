@@ -18,7 +18,6 @@ def countingValleys(n, s):
             if sea_level==0:
                 count+=1
     return count
-
 if __name__ == '__main__':
 
     n = int(input())
